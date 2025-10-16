@@ -38,4 +38,4 @@ This Excel project demonstrates a full data analysis workflow using **Power Quer
 - Power Pivot  
 - DAX  
 - Pivot Tables & Charts
-- What-if Analysis (Forcast Sheet)
+- What-if Analysis (Forecast Sheet)
