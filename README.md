@@ -32,10 +32,15 @@ This Excel project demonstrates a full data analysis workflow using **Power Quer
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️⚙️ Tools Used
 - Microsoft Excel  
 - Power Query  
 - Power Pivot  
 - DAX  
 - Pivot Tables & Charts
 - What-if Analysis (Forecast Sheet)
+
+---
+
+## 💡 Dataset
+https://www.kaggle.com/datasets/juhi1994/superstore
