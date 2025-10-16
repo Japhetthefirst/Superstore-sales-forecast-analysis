@@ -11,7 +11,7 @@ This Excel project demonstrates a full data analysis workflow using **Power Quer
 - Built a dynamic Excel dashboard with slicers, KPIs, heatmaps, and sparklines.
 - Peformed Sales Forecast using Excel Forecast Sheet.
 
-![Best one GIF](Finished Excel Projects/GIFS/Best one.gif)
+![Image](https://github.com/user-attachments/assets/5a4f665b-6e0c-41e2-9fd8-17a782a198ad)
 ---
 
 ## 🧠 Key Insights
